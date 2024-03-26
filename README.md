@@ -4,7 +4,7 @@
 
 <img src="png/pipex.png" alt="Pipex Logo" width="100" height="100">
 
-Welcome to my `pipex` project! 🚀 In this journey, I've tackled the recreation of UNIX pipe mechanisms in C programming, simulating the behavior of pipes and redirections. Dive in with me as we explore the power of UNIX mechanisms, bringing to light the intricate dance of data between processes.
+Welcome to my `pipex` project! ⑂ In this journey, I've tackled the recreation of UNIX pipe mechanisms in C programming, simulating the behavior of pipes and redirections. Dive in with me as we explore the power of UNIX mechanisms, bringing to light the intricate dance of data between processes.
 
 ---
 
